@@ -1,1 +1,1 @@
-# SyncEgg
+# Sync-Multi-Egg for Pterodactyl
